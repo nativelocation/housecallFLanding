@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="55px" viewBox="0 0 61 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-133.000000, -466.000000)">
+        <g id="Page-1" transform="translate(133.000000, 466.000000)" fill="#FFFFFF">
+            <polygon id="Fill-1" points="0 55 10 55 10 22 0 22"></polygon>
+            <path d="M61,24.75 C61,21.725 58.46875,19.25 55.375,19.25 L37.628125,19.25 L40.3,6.6825 L40.384375,5.8025 C40.384375,4.675 39.90625,3.63 39.146875,2.8875 L36.165625,0 L17.659375,18.1225 C16.61875,19.1125 16,20.4875 16,22 L16,49.5 C16,52.525 18.53125,55 21.625,55 L46.9375,55 C49.271875,55 51.26875,53.625 52.1125,51.645 L60.60625,32.2575 C60.859375,31.625 61,30.965 61,30.25 L61,24.9975 L60.971875,24.97 L61,24.75 Z" id="Fill-2"></path>
+        </g>
+    </g>
+</svg>
